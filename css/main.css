@@ -13,7 +13,8 @@ body {
   filter: brightness(1.2);
 }
 
-/* .blurr {
+/* blur */
+{
   background:rgba(240, 0, 68, 0.82);
   backdrop-filter: blur(5px);
-} */
+}
