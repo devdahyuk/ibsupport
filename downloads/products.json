@@ -1,25 +1,29 @@
 {
-    "DOS": {
-        "Boot Disk": {
-            "MS-DOS 4.01": "https://dl.bobpony.com/dos/bootdisk/DOS4.01_bootdisk.zip",
-            "MS-DOS 5.0": "https://dl.bobpony.com/dos/bootdisk/DOS5.0_bootdisk.zip",
-            "MS-DOS 6.0": "https://dl.bobpony.com/dos/bootdisk/DOS6.0_bootdisk.zip",
-            "MS-DOS 6.21": "https://dl.bobpony.com/dos/bootdisk/DOS6.21_bootdisk.zip",
-            "MS-DOS 6.22": "https://dl.bobpony.com/dos/bootdisk/DOS6.22_bootdisk.zip",
-            "MS-DOS 3.3": "https://dl.bobpony.com/dos/bootdisk/Dos3.3.img",
-            "Windows 95a Boot Disk": "https://dl.bobpony.com/dos/bootdisk/Win95a_bootdisk.zip",
-            "Windows 95b Boot Disk": "https://dl.bobpony.com/dos/bootdisk/Windows95b.zip",
-            "Windows 98 SE Boot Disk": "https://dl.bobpony.com/dos/bootdisk/Win98SE_bootdisk.zip",
-            "Windows 98 Boot Disk": "https://dl.bobpony.com/dos/bootdisk/Windows98.zip",
-            "Windows 98 (No RAMDISK)": "https://dl.bobpony.com/dos/bootdisk/Win98noram_bootdisk.zip",
-            "Windows ME Boot Disk": "https://dl.bobpony.com/dos/bootdisk/WinMe_bootdisk.zip",
-            "Windows ME (No Ram Disk": "https://dl.bobpony.com/dos/bootdisk/WinMenoram_bootdisk.zip"
+    "IB BOOKS": {
+        "Core - Extended Essay": {
+            "HODDER": "https://files.ibsupport.pm/IB%20BOOKS/Core%20-%20Extended%20Essay/HODDER/",
+            "OXFORD": "https://files.ibsupport.pm/IB%20BOOKS/Core%20-%20Extended%20Essay/OXFORD/",
+            "VARIUS": "https://files.ibsupport.pm/IB%20BOOKS/Core%20-%20Extended%20Essay/VARIOUS/"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "Chinese A": "https://files.ibsupport.pm/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Chinese%20A/",
+            "English A Language and Literature": "https://files.ibsupport.pm/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20Language%20and%20Literature/",
+            "English A Literature": "https://files.ibsupport.pm/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20Literature/",
+            "Language A": "https://files.ibsupport.pm/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A/",
+            "Spanish A": "https://files.ibsupport.pm/IB%20BOOKS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "English B": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/English%20B/",
+            "French ab initio": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/French%20ab%20initio/",
+            "French B": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/French%20B/",
+            "German B": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/German%20B/",
+            "Mandarin Chinese ab initio": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Mandarin%20Chinese%20ab%20initio/",
+            "Mandarin Chinese B": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Mandarin%20Chinese%20B/",
+            "Spanish ab initio": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Spanish%20ab%20initio/",
+            "Spanish B": "https://files.ibsupport.pm/IB%20BOOKS/Group%202%20-%20Language%20Acquisition/Spanish%20B/"
         },
         "MS-DOS": {
             "MS-DOS 2.11 (5.25)": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%202.11%20(5.25).zip",
-            "MS-DOS 3.31": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%203.31.zip",
-            "MS-DOS 4.01a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%204.01a.zip",
-            "MS-DOS 5.00a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%205.00a.zip",
             "MS-DOS 6.22": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%206.22.zip"
         }
 
