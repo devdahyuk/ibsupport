@@ -335,5 +335,21 @@
             "Theatre": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Theatre/",
             "Visual Arts": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Visual%20Arts/"
         }
+    },
+    "Others": {
+        "Useful Links": {
+            "QuestionBanks V5": "https://qbv5.ibsupport.pm",
+            "QuestionBanks V4 (outdated)": "https://qb.ibsupport.pm",
+            "SaveMyExams": "https://sme.ibsupport.pm",
+            "InThinking": "https://think.ibsupport.pm",
+            "StudyIB HL": "https://study.ibsupport.pm"
+        },
+        "Resources": {
+            "Clastify": "https://files.ibsupport.pm/Clastify/",
+            "MYP": "https://files.ibsupport.pm/MYP/",
+            "PYP": "https://files.ibsupport.pm/PYP/",
+            "RV": "https://files.ibsupport.pm/R-V/",
+            "theoryofknowledge.net": "https://files.ibsupport.pm/theoryofknowledge.net/"
+        }
     }
 }
