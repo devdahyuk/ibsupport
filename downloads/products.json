@@ -268,5 +268,72 @@
             "Theatre": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Theatre/",
             "Visual Arts": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Visual%20Arts/"
         }
+    },
+    "IB SUBJECT REPORTS": {
+        "Core - Extended Essay": {
+            "ENGLISH": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Extended%20Essay/ENGLISH/",
+            "FRENCH": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Extended%20Essay/FRENCH/"
+        },
+        "Core - Theory Of Knowledge": {
+            "CHINESE": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/CHINESE/",
+            "ENGLISH": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/ENGLISH/",
+            "FRENCH": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/FRENCH/",
+            "GERMAN": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Core%20-%20Theory%20Of%20Knowledge/GERMAN/"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "Language and Literature": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20and%20Literature/",
+            "Literature": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "Classical Languages": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Classical%20Languages/",
+            "Language ab initio": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Language%20ab%20initio/",
+            "Language B": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%202%20-%20Language%20Acquisition/Language%20B/"
+        },
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Classical Greek and Roman Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Classical%20Greek%20and%20Roman%20Studies/",
+            "Economics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "History": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/History/",
+            "Information Technology in a Global Society": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Peace and Conflict Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Peace%20and%20Conflict%20Studies/",
+            "Philosophy": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Politics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Politics/",
+            "Psychology": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Politics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/World%20Politics/",
+            "World Religions": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
+        },
+        "Group 4 - Sciences": {
+            "Astronomy": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Astronomy/",
+            "Biology": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Marine Science": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Marine%20Science/",
+            "Nature of Science": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
+        },
+        "Group 5 - Mathematics": {
+            "Further Mathematics": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Mathematical Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Mathematics HL": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematics%20HL/",
+            "Mathematics SL": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%205%20-%20Mathematics/Mathematics%20SL/"
+        },
+        "Group 6 - The Arts": {
+            "Dance": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Dance/",
+            "Film": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Film/",
+            "Literature and Performance": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Music/",
+            "Theatre": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Theatre/",
+            "Visual Arts": "https://files.ibsupport.pm/IB%20SUBJECT%20REPORTS/Group%206%20-%20The%20Arts/Visual%20Arts/"
+        }
     }
 }
