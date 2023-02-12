@@ -143,93 +143,130 @@
             "Swedish B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swedish%20B/",
             "Tamil B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Tamil%20B/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Economics": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "History": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/History/",
+            "Information Technology in a Global Society": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Philosophy": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Psychology": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Religions": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 4 - Sciences": {
+            "Biology": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Nature of Science": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://files.ibsupport.pm/IB%20SUBJECT%20PAPERS/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 5 - Mathematics": {
+            "Analysis and Approaches SL and HL": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Analysis%20and%20Approaches%20SL%20and%20HL/",
+            "Applications and Interpretations SL and HL": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Applications%20and%20Interpretations%20SL%20and%20HL/",
+            "Further Mathematics": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Higher Level": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Higher%20Level/",
+            "Mathematical Studies": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Standard Level": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%205%20-%20Mathematics/Standard%20Level/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 6 - The Arts": {
+            "Literature and Performance": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%206%20-%20The%20Arts/Music/"
         }
     },
-    "IB SPECIMEN PAPERS": {
-        "Core - Theory of Knowledge": {
-            "Specimen Titles 2016 - Chinese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Chinese.pdf",
-            "Specimen Titles 2016 - English": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20English.pdf",
-            "Specimen Titles 2016 g- German": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20German.pdf",
-            "Specimen Titles 2016 - Japanese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Japanese.pdf",
-            "Ssapecimen Titles 2016 - Spanish": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Spanish.pdf"
+    "IB SUBJECT GUIDES": {
+        "Core - Creativity, Activity and Service": {
+            "Creativity, Activity and Service Guide - 2003 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202003%20-%20English.pdf",
+            "Creativity, Activity and Service Guide - 2017 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20English.pdf",
+            "Creativity, Activity and Service Guide - 2017 - French": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20French.pdf",
+            "Creativity, Activity and Service Guide - 2017 - Japanese": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20Japanese.pdf",
+            "Creativity, Activity and Service Guide - 2017 - Spanish": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Creativity%2C%20Activity%20and%20Service/Creativity%2C%20Activity%20and%20Service%20Guide%20-%202017%20-%20Spanish.pdf"
+        },
+        "Core - Extended Essay": {
+            "Extended Essay Guide 1999 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%201999%20-%20English.pdf",
+            "Extended Essay Guide 1999 - Spanish": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%201999%20-%20Spanish.pdf",
+            "Extended Essay Guide 2009 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202009%20-%20English.pdf",
+            "Extended Essay Guide 2013 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202013%20-%20English.pdf",
+            "Extended Essay Guide 2018 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20English.pdf",
+            "Extended Essay Guide 2018 - French": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20French.pdf",
+            "Extended Essay Guide 2018 - Japanese": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20Japanese.pdf",
+            "Extended Essay Guide 2018 - Spanish": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Extended%20Essay/Extended%20Essay%20Guide%202018%20-%20Spanish.pdf"
+        },
+        "Core - Theory Of Knowledge": {
+            "Theory Of Knowledge Guide 2001 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202001%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2008 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202008%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2015 - Chinese": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Chinese.pdf",
+            "Theory Of Knowledge Guide 2015 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2015 - French": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20French.pdf",
+            "Theory Of Knowledge Guide 2015 - German": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20German.pdf",
+            "Theory Of Knowledge Guide 2015 - Japanese": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Japanese.pdf",
+            "Theory Of Knowledge Guide 2015 - Spanish": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202015%20-%20Spanish.pdf",
+            "Theory Of Knowledge Guide 2020 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202020%20-%20English.pdf",
+            "Theory Of Knowledge Guide 2020 - Spanish": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Core%20-%20Theory%20Of%20Knowledge/Theory%20Of%20Knowledge%20Guide%202020%20-%20Spanish.pdf"
         },
         "Group 1 - Studies in Language and Literature": {
-            "English A - Lgsiterature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20-%20Literature%20and%20Language%20and%20Literature/",
-            "French A - Literature & gfsaLanguage and Literature": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Japanese A - Language and Literatfsdfure": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Language%20and%20Literature/",
-            "Japanese A - Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Literature/",
-            "Spanish A - Literature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20-%20Literature%20and%20Language%20and%20Literature/"
+            "Language A - Language and Literature": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A%20-%20Language%20and%20Literature/",
+            "Language A - Literature": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A%20-%20Literature/",
+            "Language A1 Guide 2001 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A1%20Guide%202001%20-%20English.pdf",
+            "Language A2 Guide 2004 - English": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Language%20A2%20Guide%202004%20-%20English.pdf"
         },
         "Group 2 - Language Acquisition": {
-            "Arabic ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20ab%20initio/",
-            "Arabic B": "https://files.ibsupport.pm/gsfaIB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20B/",
-            "Chinese (Cantonese) B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Cantonese%29%20B/",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+            "Classical Languages": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Classical%20Languages/",
+            "Language ab initio": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Language%20ab%20initio/",
+            "Language B": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%202%20-%20Language%20Acquisition/Language%20B/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 3 - Individuals and Societies": {
+            "Art History": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Art%20History/",
+            "Brazilian Social Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Brazilian%20Social%20Studies/",
+            "Business Management": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Business%20Management/",
+            "Classical Greek and Roman Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Classical%20Greek%20and%20Roman%20Studies/",
+            "Economics": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Economics/",
+            "Geography": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Geography/",
+            "Global Politics": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Global%20Politics/",
+            "Information Technology in a Global Society": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Information%20Technology%20in%20a%20Global%20Society/",
+            "Philosophy": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Philosophy/",
+            "Political Thought": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Political%20Thought/",
+            "Psychology": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Psychology/",
+            "Social and Cultural Anthropology": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Social%20and%20Cultural%20Anthropology/",
+            "Turkey in the 20th Century": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/Turkey%20in%20the%2020th%20Century/",
+            "World Arts and Cultures": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/World%20Arts%20and%20Cultures/",
+            "World Religions": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%203%20-%20Individuals%20and%20Societies/World%20Religions/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 4 - Sciences": {
+            "Astronomy": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Astronomy/",
+            "Biology": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Biology/",
+            "Chemistry": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Chemistry/",
+            "Computer Science": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Computer%20Science/",
+            "Design Technology": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Design%20Technology/",
+            "Environmental Systems and Societies": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Environmental%20Systems%20and%20Societies/",
+            "Food Science and Technology": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Food%20Science%20and%20Technology/",
+            "Nature of Science": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Nature%20of%20Science/",
+            "Physics": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Physics/",
+            "Sports, Exercise and Health Science": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%204%20-%20Sciences/Sports%2C%20Exercise%20and%20Health%20Science/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 5 - Mathematics": {
+            "Further Mathematics": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Further%20Mathematics/",
+            "Mathematical Studies": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematical%20Studies/",
+            "Mathematics Analysis and Approahces": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20Analysis%20and%20Approaches/",
+            "Mathematics Applications and Interpretation": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20Applications%20and%20Interpretation/",
+            "Mathematics HL": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20HL/",
+            "Mathematics SL": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%205%20-%20Mathematics/Mathematics%20SL/"
         },
-        "Classic": {
-            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
-            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
-            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
-            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
-            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
-            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        "Group 6 - The Arts": {
+            "Dance": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Dance/",
+            "Film": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Film/",
+            "Literature and Performance": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Literature%20and%20Performance/",
+            "Music": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Music/",
+            "Theatre": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Theatre/",
+            "Visual Arts": "https://files.ibsupport.pm/IB%20SUBJECT%20GUIDES/Group%206%20-%20The%20Arts/Visual%20Arts/"
         }
     }
 }
