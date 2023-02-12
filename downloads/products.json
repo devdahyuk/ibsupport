@@ -83,7 +83,66 @@
             "November 2022": "https://files.ibsupport.pm/IB%20PAST%20PAPERS%20-%20YEAR/2022%20Examination%20Session/November%202022%20Examination%20Session/"
         }
     },
-    "macOS": {
+    "IB SPECIMEN PAPERS": {
+        "Core - Theory of Knowledge": {
+            "Specimen Titles 2016 - Chinese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Chinese.pdf",
+            "Specimen Titles 2016 - English": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20English.pdf",
+            "Specimen Titles 2016 - French": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20French.pdf",
+            "Specimen Titles 2016 - German": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20German.pdf",
+            "Specimen Titles 2016 - Japanese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Japanese.pdf",
+            "Specimen Titles 2016 - Spanish": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Spanish.pdf"
+        },
+        "Group 1 - Studies in Language and Literature": {
+            "English A - Literature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20-%20Literature%20and%20Language%20and%20Literature/",
+            "French A - Literature & Language and Literature": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Japanese A - Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Language%20and%20Literature/",
+            "Japanese A - Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Literature/",
+            "Spanish A - Literature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20-%20Literature%20and%20Language%20and%20Literature/"
+        },
+        "Group 2 - Language Acquisition": {
+            "Arabic ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20ab%20initio/",
+            "Arabic B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20B/",
+            "Chinese (Cantonese) B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Cantonese%29%20B/",
+            "Chinese (Mandarin) ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Mandarin%29%20ab%20initio/",
+            "Chinese (Mandarin) B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Mandarin%29%20B/",
+            "Chinese B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20B/",
+            "Classical Greek": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Classical%20Greek/",
+            "Danish ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Danish%20ab%20initio/",
+            "Danish B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Danish%20B/",
+            "Dutch B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Dutch%20B/",
+            "English ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20ab%20initio/",
+            "English B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20B/",
+            "English B and ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/English%20B%20and%20ab%20initio/",
+            "Finnish B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Finnish%20B/",
+            "French ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20ab%20initio/",
+            "French B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20B/",
+            "French B and ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/French%20B%20and%20ab%20initio/",
+            "German ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/German%20ab%20initio/",
+            "German B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/German%20B/",
+            "Hebrew B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Hebrew%20B/",
+            "Hindi B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Hindi%20B/",
+            "Indonesian ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Indonesian%20ab%20initio/",
+            "Indonesian B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Indonesian%20B/",
+            "Italian ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Italian%20ab%20initio/",
+            "Italian B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Italian%20B/",
+            "Japanese ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Japanese%20ab%20initio/",
+            "Japanese B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Japanese%20B/",
+            "Korean B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Korean%20B/",
+            "Latin": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Latin/",
+            "Malay B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Malay%20B/",
+            "Norweigan B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Norweigan%20B/",
+            "Portuguese B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Portuguese%20B/",
+            "Russian ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Russian%20ab%20initio/",
+            "Russian B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Russian%20B/",
+            "Spanish ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20ab%20initio/",
+            "Spanish B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20B/",
+            "Spanish B and ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Spanish%20B%20and%20ab%20initio/",
+            "Swahili ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swahili%20ab%20initio/",
+            "Swahili B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swahili%20B/",
+            "Swedish ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swedish%20ab%20initio/",
+            "Swedish B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Swedish%20B/",
+            "Tamil B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Tamil%20B/"
+        },
         "Classic": {
             "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
             "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
@@ -92,30 +151,84 @@
             "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
             "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
         },
-        "Cheetah": {
-            "Mac OS X 10.0.3": "https://dl.bobpony.com/macos/cheetah/Mac%20OS%20X%2010.0.3.7z"
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
         },
-        "Puma": {
-            "Mac OS X 10.1 (5J34)": "https://dl.bobpony.com/macos/puma/Apple%20Mac%20OS%20X%2010.1%20%2810.1.5J34%29.7z"
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
         },
-        "Jaguar": {
-            "Mac OS X 10.2 (6C115)": "https://dl.bobpony.com/macos/jaguar/Apple%20Mac%20OS%20X%2010.2%20%2810.2.6C115%29.7z",
-            "Mac OS X 10.2.7 (6S80) for PowerMac G5": "https://dl.bobpony.com/macos/jaguar/Apple%20Mac%20OS%20X%2010.2.7%20%2810.2.7.6S80%29%20PowerMac%20G5.7z"
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
         },
-        "Panther": {
-            "CD 1": "https://dl.bobpony.com/macos/panther/Panther_CD1.toast_.zip",
-            "CD 2": "https://dl.bobpony.com/macos/panther/Panther_CD2.toast_.zip",
-            "CD 3": "https://dl.bobpony.com/macos/panther/Panther_CD3.toast__0.zip"
+    "IB SPECIMEN PAPERS": {
+        "Core - Theory of Knowledge": {
+            "Specimen Titles 2016 - Chinese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Chinese.pdf",
+            "Specimen Titles 2016 - English": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20English.pdf",
+            "Specimen Titles 2016 g- German": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20German.pdf",
+            "Specimen Titles 2016 - Japanese": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Japanese.pdf",
+            "Ssapecimen Titles 2016 - Spanish": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Core%20-%20Theory%20Of%20Knowledge/Specimen%20Titles%202016%20-%20Spanish.pdf"
         },
-        "Tiger": {
-            "CD 1": "https://dl.bobpony.com/macos/tiger/Tiger_CD1.toast_.zip",
-            "CD 2": "https://dl.bobpony.com/macos/tiger/Tiger_CD2.toast_.zip",
-            "CD 3": "https://dl.bobpony.com/macos/tiger/Tiger_CD3.toast_.zip",
-            "CD 4": "https://dl.bobpony.com/macos/tiger/Tiger_CD4.toast_.zip",
-            "Mac OS X 10.4.8 (Intel)": "https://dl.bobpony.com/macos/tiger/Mac%20OS%20X%2010.4.8.7z"
+        "Group 1 - Studies in Language and Literature": {
+            "English A - Lgsiterature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/English%20A%20-%20Literature%20and%20Language%20and%20Literature/",
+            "French A - Literature & gfsaLanguage and Literature": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Japanese A - Language and Literatfsdfure": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Language%20and%20Literature/",
+            "Japanese A - Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Japanese%20A%20-%20Literature/",
+            "Spanish A - Literature & Language and Literature": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Spanish%20A%20-%20Literature%20and%20Language%20and%20Literature/"
         },
-        "Leopard": {
-            "Mac OS X 10.5.6": "https://dl.bobpony.com/macos/leopard/Mac%20OS%20X%2010.5.6.7z"
+        "Group 2 - Language Acquisition": {
+            "Arabic ab initio": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20ab%20initio/",
+            "Arabic B": "https://files.ibsupport.pm/gsfaIB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Arabic%20B/",
+            "Chinese (Cantonese) B": "https://files.ibsupport.pm/IB%20SPECIMEN%20PAPERS/Group%202%20-%20Language%20Acquisition/Chinese%20%28Cantonese%29%20B/",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        },
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        },
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        },
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        },
+        "Classic": {
+            "Mac OS 8.6 (PowerMac G3-BW)": "https://dl.bobpony.com/macos/classic/Mac%20OS%208.6%20(PowerMac%20G3-BW).7z",
+            "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://dl.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "Mac OS 9.2 (PowerMac G4)": "https://dl.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
         }
     }
 }
